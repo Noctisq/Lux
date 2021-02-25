@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Noctisq/Lux/static/css/main.c79e1bc9.chunk.css",
+    "main.js": "/Noctisq/Lux/static/js/main.09a06c33.chunk.js",
+    "main.js.map": "/Noctisq/Lux/static/js/main.09a06c33.chunk.js.map",
+    "runtime-main.js": "/Noctisq/Lux/static/js/runtime-main.42992751.js",
+    "runtime-main.js.map": "/Noctisq/Lux/static/js/runtime-main.42992751.js.map",
+    "static/js/2.9f8f7960.chunk.js": "/Noctisq/Lux/static/js/2.9f8f7960.chunk.js",
+    "static/js/2.9f8f7960.chunk.js.map": "/Noctisq/Lux/static/js/2.9f8f7960.chunk.js.map",
+    "static/js/3.e0cc765f.chunk.js": "/Noctisq/Lux/static/js/3.e0cc765f.chunk.js",
+    "static/js/3.e0cc765f.chunk.js.map": "/Noctisq/Lux/static/js/3.e0cc765f.chunk.js.map",
+    "index.html": "/Noctisq/Lux/index.html",
+    "static/css/main.c79e1bc9.chunk.css.map": "/Noctisq/Lux/static/css/main.c79e1bc9.chunk.css.map",
+    "static/js/2.9f8f7960.chunk.js.LICENSE.txt": "/Noctisq/Lux/static/js/2.9f8f7960.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42992751.js",
+    "static/js/2.9f8f7960.chunk.js",
+    "static/css/main.c79e1bc9.chunk.css",
+    "static/js/main.09a06c33.chunk.js"
+  ]
+}
